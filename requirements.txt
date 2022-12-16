@@ -1,0 +1,4 @@
+scipy
+pillow
+matplotlib
+tensorflow==0.12.1
